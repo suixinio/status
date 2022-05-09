@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Static CDN
     url: https://static-cdn.mofan.io
+  - name: Down Site
+    url: https://down.suixin.kim/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
