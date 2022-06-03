@@ -78,7 +78,7 @@
     "url": "https://down.suixin.kim/",
     "icon": "https://favicons.githubusercontent.com/down.suixin.kim",
     "slug": "down-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 304,
     "timeMonth": 371,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   }
 ]
