@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 63,
-    "timeWeek": 129,
-    "timeMonth": 116,
+    "timeDay": 171,
+    "timeWeek": 138,
+    "timeMonth": 119,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-07-15": 16,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 207,
-    "timeWeek": 172,
-    "timeMonth": 214,
-    "timeYear": 223,
+    "timeDay": 281,
+    "timeWeek": 192,
+    "timeMonth": 218,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 315,
-    "timeDay": 451,
-    "timeWeek": 327,
-    "timeMonth": 315,
-    "timeYear": 314,
+    "timeDay": 115,
+    "timeWeek": 326,
+    "timeMonth": 307,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2023-06-21": 25,
       "2023-05-22": 17,
@@ -72,15 +72,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "up",
-    "uptime": "68.29%",
+    "uptime": "68.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.49%",
-    "time": 525,
-    "timeDay": 998,
-    "timeWeek": 844,
-    "timeMonth": 844,
+    "uptimeYear": "56.68%",
+    "time": 526,
+    "timeDay": 755,
+    "timeWeek": 843,
+    "timeMonth": 836,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2023-03-23": 384,
@@ -241,8 +241,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
-      "2022-10-12": 1440,
-      "2022-10-11": 1440
+      "2022-10-12": 1440
     }
   },
   {
@@ -251,18 +250,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "28.37%",
+    "uptime": "28.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 484,
+    "time": 483,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-10": 27,
+      "2023-10-11": 27,
+      "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -625,8 +625,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
-      "2022-10-12": 1440,
-      "2022-10-11": 1440
+      "2022-10-12": 1440
     }
   }
 ]
