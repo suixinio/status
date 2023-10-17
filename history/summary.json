@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 57,
-    "timeWeek": 84,
-    "timeMonth": 117,
+    "timeDay": 113,
+    "timeWeek": 91,
+    "timeMonth": 109,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-07-15": 16,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 159,
-    "timeWeek": 203,
-    "timeMonth": 223,
+    "time": 223,
+    "timeDay": 220,
+    "timeWeek": 205,
+    "timeMonth": 221,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 316,
-    "timeDay": 422,
-    "timeWeek": 332,
-    "timeMonth": 318,
+    "timeDay": 389,
+    "timeWeek": 325,
+    "timeMonth": 322,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2023-06-21": 25,
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "up",
-    "uptime": "68.65%",
+    "uptime": "68.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.05%",
-    "time": 513,
-    "timeDay": 956,
-    "timeWeek": 866,
-    "timeMonth": 841,
-    "timeYear": 631,
+    "uptimeYear": "58.33%",
+    "time": 515,
+    "timeDay": 844,
+    "timeWeek": 844,
+    "timeMonth": 843,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2023-03-23": 384,
       "2023-03-22": 1440,
@@ -234,8 +234,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -244,18 +243,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "28.05%",
+    "uptime": "27.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 478,
+    "time": 479,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 29,
+      "2023-10-17": 28,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -618,8 +618,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   }
 ]
