@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 106,
-    "timeDay": 81,
-    "timeWeek": 84,
-    "timeMonth": 95,
+    "time": 107,
+    "timeDay": 194,
+    "timeWeek": 93,
+    "timeMonth": 89,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-11-08": 18,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 100,
-    "timeWeek": 170,
-    "timeMonth": 182,
+    "timeDay": 23,
+    "timeWeek": 144,
+    "timeMonth": 181,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "uptimeYear": "99.95%",
     "time": 311,
     "timeDay": 149,
-    "timeWeek": 332,
+    "timeWeek": 284,
     "timeMonth": 293,
     "timeYear": 311,
     "dailyMinutesDown": {
@@ -73,15 +73,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "up",
-    "uptime": "71.53%",
+    "uptime": "71.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.58%",
-    "time": 600,
-    "timeDay": 751,
-    "timeWeek": 912,
-    "timeMonth": 870,
+    "uptimeYear": "72.85%",
+    "time": 601,
+    "timeDay": 734,
+    "timeWeek": 886,
+    "timeMonth": 872,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2023-03-23": 384,
@@ -183,8 +183,7 @@
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
-      "2022-12-10": 1440,
-      "2022-12-09": 1440
+      "2022-12-10": 1440
     }
   },
   {
@@ -193,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "25.47%",
+    "uptime": "25.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -204,7 +203,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-08": 30,
+      "2023-12-09": 29,
+      "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -567,8 +567,7 @@
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
-      "2022-12-10": 1440,
-      "2022-12-09": 1440
+      "2022-12-10": 1440
     }
   }
 ]
