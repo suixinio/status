@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 84,
-    "timeWeek": 73,
+    "timeDay": 69,
+    "timeWeek": 72,
     "timeMonth": 108,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 26,
-    "timeWeek": 103,
-    "timeMonth": 191,
-    "timeYear": 220,
+    "time": 218,
+    "timeDay": 470,
+    "timeWeek": 156,
+    "timeMonth": 205,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 316,
-    "timeDay": 105,
-    "timeWeek": 207,
-    "timeMonth": 277,
-    "timeYear": 319,
+    "timeDay": 384,
+    "timeWeek": 250,
+    "timeMonth": 286,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-01-15": 25,
       "2024-01-10": 120,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "up",
-    "uptime": "74.91%",
+    "uptime": "74.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.53%",
+    "uptimeYear": "92.81%",
     "time": 712,
-    "timeDay": 792,
-    "timeWeek": 782,
-    "timeMonth": 834,
+    "timeDay": 845,
+    "timeWeek": 809,
+    "timeMonth": 841,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2023-03-23": 384,
@@ -112,8 +112,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   },
   {
@@ -122,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "22.44%",
+    "uptime": "22.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -133,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 27,
+      "2024-02-25": 31,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -496,8 +496,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   }
 ]
