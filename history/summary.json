@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 72,
-    "timeWeek": 74,
-    "timeMonth": 97,
+    "timeDay": 63,
+    "timeWeek": 71,
+    "timeMonth": 95,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-11-08": 18,
@@ -33,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 336,
-    "timeWeek": 294,
+    "timeDay": 155,
+    "timeWeek": 313,
     "timeMonth": 206,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -46,14 +46,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 316,
-    "timeDay": 308,
-    "timeWeek": 289,
-    "timeMonth": 277,
+    "timeDay": 417,
+    "timeWeek": 317,
+    "timeMonth": 282,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -77,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "up",
-    "uptime": "75.14%",
+    "uptime": "75.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.91%",
-    "time": 715,
-    "timeDay": 997,
-    "timeWeek": 881,
-    "timeMonth": 843,
+    "uptimeYear": "94.18%",
+    "time": 716,
+    "timeDay": 1031,
+    "timeWeek": 916,
+    "timeMonth": 846,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-03-23": 384,
@@ -107,8 +107,7 @@
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 1440
+      "2023-03-04": 1440
     }
   },
   {
@@ -117,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "22.24%",
+    "uptime": "22.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -128,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-01": 32,
+      "2024-03-02": 27,
+      "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -491,8 +491,7 @@
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 1440
+      "2023-03-04": 1440
     }
   }
 ]
