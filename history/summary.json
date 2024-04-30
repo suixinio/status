@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 102,
-    "timeDay": 82,
-    "timeWeek": 117,
-    "timeMonth": 103,
+    "time": 103,
+    "timeDay": 167,
+    "timeWeek": 130,
+    "timeMonth": 107,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-11-08": 18,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 186,
-    "timeWeek": 119,
-    "timeMonth": 193,
+    "timeDay": 229,
+    "timeWeek": 148,
+    "timeMonth": 194,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 315,
-    "timeDay": 415,
-    "timeWeek": 291,
-    "timeMonth": 289,
-    "timeYear": 314,
+    "time": 316,
+    "timeDay": 496,
+    "timeWeek": 340,
+    "timeMonth": 291,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2024-02-29": 18,
       "2024-01-15": 25,
@@ -64,8 +64,7 @@
       "2023-11-17": 20,
       "2023-10-28": 23,
       "2023-06-21": 25,
-      "2023-05-22": 17,
-      "2023-05-01": 23
+      "2023-05-22": 17
     }
   },
   {
@@ -74,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "down",
-    "uptime": "70.59%",
+    "uptime": "70.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.00%",
-    "time": 734,
+    "uptimeYear": "86.73%",
+    "time": 736,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 797,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-04-29": 30,
+      "2024-04-30": 29,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -142,7 +142,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "20.42%",
+    "uptime": "20.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-29": 30,
+      "2024-04-30": 29,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -516,8 +517,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   }
 ]
