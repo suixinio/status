@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 114,
-    "timeWeek": 97,
-    "timeMonth": 98,
+    "timeDay": 86,
+    "timeWeek": 94,
+    "timeMonth": 97,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-09-16": 24,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 350,
-    "timeWeek": 201,
-    "timeMonth": 161,
+    "timeDay": 66,
+    "timeWeek": 177,
+    "timeMonth": 158,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 312,
-    "timeDay": 292,
-    "timeWeek": 329,
-    "timeMonth": 331,
-    "timeYear": 316,
+    "time": 313,
+    "timeDay": 349,
+    "timeWeek": 358,
+    "timeMonth": 332,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2024-07-22": 17,
       "2024-06-25": 16
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "down",
-    "uptime": "54.20%",
+    "uptime": "54.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2025-06-11": 46,
+      "2025-06-12": 46,
+      "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -338,8 +339,7 @@
       "2024-09-16": 464,
       "2024-06-15": 972,
       "2024-06-14": 1440,
-      "2024-06-13": 1440,
-      "2024-06-12": 1440
+      "2024-06-13": 1440
     }
   },
   {
@@ -348,7 +348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "13.03%",
+    "uptime": "13.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -359,7 +359,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 46,
+      "2025-06-12": 46,
+      "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -722,8 +723,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
-      "2024-06-13": 1440,
-      "2024-06-12": 1440
+      "2024-06-13": 1440
     }
   }
 ]
