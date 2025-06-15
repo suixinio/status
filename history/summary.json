@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 100,
-    "timeWeek": 97,
+    "timeDay": 104,
+    "timeWeek": 99,
     "timeMonth": 98,
-    "timeYear": 110,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-09-16": 24,
       "2024-08-05": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 85,
-    "timeWeek": 182,
-    "timeMonth": 158,
-    "timeYear": 215,
+    "timeDay": 240,
+    "timeWeek": 210,
+    "timeMonth": 154,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 313,
-    "timeDay": 97,
-    "timeWeek": 309,
-    "timeMonth": 332,
-    "timeYear": 317,
+    "timeDay": 103,
+    "timeWeek": 310,
+    "timeMonth": 324,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-07-22": 17,
       "2024-06-25": 16
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/static-cdn.mofan.io.ico",
     "slug": "static-cdn",
     "status": "down",
-    "uptime": "54.05%",
+    "uptime": "54.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "28.22%",
-    "time": 735,
+    "time": 734,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2025-06-14": 44,
+      "2025-06-15": 53,
+      "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -338,8 +339,7 @@
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
-      "2024-09-16": 464,
-      "2024-06-15": 972
+      "2024-09-16": 464
     }
   },
   {
@@ -348,7 +348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.suixin.kim.ico",
     "slug": "down-site",
     "status": "down",
-    "uptime": "13.00%",
+    "uptime": "12.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -359,7 +359,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-14": 44,
+      "2025-06-15": 53,
+      "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -722,8 +723,7 @@
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
-      "2024-06-16": 1440,
-      "2024-06-15": 1440
+      "2024-06-16": 1440
     }
   }
 ]
